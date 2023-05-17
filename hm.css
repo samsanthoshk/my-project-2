@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+padding-left: 90px;
+text-decoration: none;
+}
+.tb{
+    background-color: burlywood;
+}
+.tb:hover{
+    background-color: coral;
+    border-radius: 10px;
+    border-color: red;
+    border-style: groove;
+
+}
+.a11{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px;
+    align-items: center;
+
+}
